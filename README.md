@@ -1,3 +1,3 @@
 # Graphics Warmup Assignment
-## Project Outcomes
+### Project Outcomes
 ![](https://github.com/doyoojk/graphics-warmup/blob/main/warmup.png)
